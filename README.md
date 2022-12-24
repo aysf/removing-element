@@ -1,4 +1,4 @@
-# removing element
+# Removing Elements
 
 Take an array and remove n element(s) from the array. This problem is extended from Codewars, [removing elements](https://www.codewars.com/kata/5769b3802ae6f8e4890009d2)
 
